@@ -17,7 +17,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Adixshu&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+<picture>
+  <img src="https://komarev.com/ghpvc/?username=Adixshu&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+</picture>
 
 <br><br>
 
