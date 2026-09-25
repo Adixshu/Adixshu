@@ -1,113 +1,69 @@
 <div align="center">
 
-# ADITYA SHUKLA
-
-### Software Engineer in the Making · Java · Backend · DSA · Systems · Cloud
-
-Building software, solving problems, and learning how systems work under the hood.
-
-<br>
+<!-- Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B5D,100:1F6F8B&height=220&section=header&text=Aditya%20Shukla&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Java%20%7C%20Backend%20%7C%20DSA%20%7C%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://adixshu.github.io">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC&labelColor=0B1220" />
 </a>
-<a href="https://www.linkedin.com/in/adityashukla">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+&nbsp;
 <a href="https://github.com/Adixshu">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Adixshu&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Building+software+with+Java+%26+backend+engineering;Learning+DSA+by+solving+real+problems;Understanding+systems%2C+not+just+syntax;From+code+%E2%86%92+architecture+%E2%86%92+deployment" />
 
 </div>
 
 <br>
 
----
-
-<div align="center">
-
-> **I don't just want to write code.**
->
-> **I want to understand what happens after the code works.**
-
-</div>
-
----
-
-## `01` — Who I Am
-
-I'm **Aditya Shukla**, a Computer Science Engineering student from India working toward becoming a software engineer.
-
-My current engineering path is:
-
-```text
-Java
-  ↓
-Backend Development
-  ↓
-Data Structures & Algorithms
-  ↓
-Systems
-  ↓
-Cloud & Infrastructure
-```
-
-I enjoy taking things apart, understanding how they work, and rebuilding them better.
-
-Right now, I'm focused on becoming strong at **problem solving, backend engineering, and core CS fundamentals** while gradually moving toward production systems and infrastructure.
-
----
-
-## `02` — Current Focus
+## ✦ About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🧠 Problem Solving
+### Hey, I'm Aditya 👋
 
-- Data Structures & Algorithms
-- LeetCode
-- Complexity Analysis
-- Pattern Recognition
-- Java problem solving
+I'm a **Computer Science Engineering student** focused on becoming a strong software engineer.
 
-</td>
-<td width="50%">
+I like understanding what happens **behind the code** — from data structures and object-oriented design to databases, networking, deployment, and infrastructure.
 
-### ⚙️ Software Engineering
+My current direction:
 
-- Java
-- OOP
-- DBMS
-- SQL
-- Backend architecture
-- REST APIs
+**Java → Backend → DSA → Systems → Cloud**
+
+I'm not trying to learn every technology at once. I'm building the fundamentals first, then using them to build increasingly real software.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🌐 Systems
+<td width="42%" valign="top">
 
-- Operating Systems
-- Computer Networks
-- Linux
-- Concurrency
-- System fundamentals
+### ⚡ Current Focus
 
-</td>
-<td width="50%">
+```text
+▸ Java
+▸ Data Structures & Algorithms
+▸ OOP + DBMS
+▸ Backend Development
+▸ Computer Networks
+▸ Operating Systems
+▸ Git & GitHub
+```
 
-### ☁️ Next Direction
+<br>
 
-- Spring Boot
-- Docker
-- CI/CD
-- AWS
-- Deployment
-- Monitoring
+> **Learn → Build → Debug → Understand → Improve**
 
 </td>
 </tr>
@@ -115,179 +71,280 @@ Right now, I'm focused on becoming strong at **problem solving, backend engineer
 
 ---
 
-## `03` — Tech Stack
+## 🧭 Engineering Path
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<br>
+<b>01</b><br>
+🟦<br>
+<b>Java</b><br>
+<sub>Core language</sub>
+<br><br>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+<br>
+<b>02</b><br>
+🟩<br>
+<b>Backend</b><br>
+<sub>APIs & databases</sub>
+<br><br>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+<br>
+<b>03</b><br>
+🟪<br>
+<b>DSA</b><br>
+<sub>Problem solving</sub>
+<br><br>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+<br>
+<b>04</b><br>
+🟧<br>
+<b>Systems</b><br>
+<sub>OS & networking</sub>
+<br><br>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+<br>
+<b>05</b><br>
+🟥<br>
+<b>Cloud</b><br>
+<sub>Deploy & operate</sub>
+<br><br>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 
-### Development
+### Backend & Data
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql" />
 
-### Exploring Next
+### Tools & Engineering
 
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws" />
+
+</div>
+
+<br>
+
+> **Learning / expanding next:** Spring Boot · REST APIs · Docker · CI/CD · AWS · Production deployment · Monitoring
 
 ---
 
-## `04` — Selected Work
+## 🚀 Selected Work
 
-### 🎓 College Application
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Flutter-based college application built around real student workflows.
+### 🎓 College App
 
-**Includes**
+Flutter-based college application built around real student workflows.
 
-`Events` · `Notes` · `Attendance` · `Timetable` · `Notifications` · `Admin Workflows`
+**Features**
 
-Beyond building features, this project has helped me learn how to:
+`Events` · `Notes` · `Attendance`  
+`Timetable` · `Notifications` · `Admin`
 
-- Read and understand an existing codebase
-- Trace data through an application
-- Debug feature-level issues
-- Work with local persistence
-- Think about roles and application architecture
+**What I'm learning from it**
 
----
+- Reading an existing codebase
+- Tracing data flow
+- Local persistence
+- Role-based application logic
+- Debugging real feature issues
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 
-My personal developer portfolio — designed to document my engineering direction, projects, technical interests, and progress.
+My developer portfolio — a visual representation of my engineering journey, projects, interests, and direction.
 
-**→ https://adixshu.github.io**
+**Stack**
 
-Built with:
+`HTML` · `CSS` · `JavaScript`  
+`GitHub Pages` · `GitHub Actions`
 
-`HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `GitHub Actions`
+**Live →**  
+https://adixshu.github.io
 
----
-
-### 🧩 Problem Solving
-
-I'm actively solving DSA problems in **Java**.
-
-Current progression:
-
-```text
-Arrays
- → Strings
- → Hashing
- → Stacks & Queues
- → Linked Lists
- → Trees
- → Graphs
- → Dynamic Programming
-```
-
-The goal isn't just to collect solved problems.
-
-It's to become better at **thinking before coding**.
-
----
-
-## `05` — Engineering Direction
-
-```text
-                    SOFTWARE ENGINEERING
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-        CODE              SYSTEMS       INFRASTRUCTURE
-          │                 │                 │
-        Java                OS              Docker
-        DSA                 CN              CI/CD
-        OOP                DBMS             AWS
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                    PRODUCTION SOFTWARE
-```
-
-Long term, I want to be able to take a problem from:
-
-**idea → code → architecture → deployment → production**
-
-without treating each layer as a completely separate world.
-
----
-
-## `06` — Learning Philosophy
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Learn → Build → Break → Debug → Understand → Improve
+### 🧩 DSA Progress
 
-</div>
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Problem%20Solving-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 
-I learn best when concepts are connected to something real.
+<br><br>
 
-Instead of collecting technologies, I'm trying to build a foundation that lets me understand **why** things work — not just **how** to use them.
-
-> **Progress is measured by what I can build and understand, not by how many tutorials I've finished.**
-
----
-
-## `07` — GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adixshu&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adixshu&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="165" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Adixshu&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+`Arrays` → `Hashing` → `Stacks` → `Queues` → `Linked Lists` → `Trees` → `Graphs` → `DP`
 
 </div>
 
 ---
 
-## `08` — Beyond the Code
-
-When I'm not working on software, I'm usually:
-
-- 🎸 Playing guitar
-- 🎬 Editing videos
-- 🎵 Exploring music
-- 🏋️ Training
-- 🧠 Going down random technical rabbit holes
-
----
-
-## `09` — Let's Connect
+## 📊 GitHub
 
 <div align="center">
 
-If you're interested in software engineering, backend systems, problem solving, or building something interesting —
-
-**let's connect.**
-
-<br>
-
-<a href="https://adixshu.github.io">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge" />
+<a href="https://github.com/Adixshu">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adixshu&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DD3FC&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&rank_icon=github&include_all_commits=true" />
 </a>
-<a href="https://www.linkedin.com/in/adityashukla">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" />
+
+<a href="https://github.com/Adixshu">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adixshu&layout=compact&hide_border=true&bg_color=00000000&title_color=7DD3FC&text_color=C9D1D9&langs_count=8" />
 </a>
 
 <br><br>
 
-<sub>Built with curiosity · powered by caffeine · improved by debugging</sub>
+<img src="https://streak-stats.demolab.com?user=Adixshu&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+## 🎯 What I'm Building Toward
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+**Problem Solver**
+
+<sub>
+DSA<br>
+Algorithms<br>
+Complexity
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**Backend Engineer**
+
+<sub>
+Java<br>
+Spring Boot<br>
+REST APIs
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🖥️
+**Systems Thinker**
+
+<sub>
+OS<br>
+Networking<br>
+Databases
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+**Production Mindset**
+
+<sub>
+Docker<br>
+CI/CD<br>
+Cloud
+</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **The goal:** understand the journey from **idea → code → architecture → deployment → production.**
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+<div align="center">
+
+🎸 **Guitar** &nbsp;&nbsp;•&nbsp;&nbsp;
+🎬 **Video Editing** &nbsp;&nbsp;•&nbsp;&nbsp;
+🎵 **Music** &nbsp;&nbsp;•&nbsp;&nbsp;
+🏋️ **Training** &nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 **Random Tech Rabbit Holes**
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://adixshu.github.io">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0B1220?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Adixshu">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Building quietly. Learning deeply. Shipping better.</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6F8B,50:123B5D,100:0B1220&height=120&section=footer" width="100%"/>
 
 </div>
